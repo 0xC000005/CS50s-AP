@@ -1,5 +1,6 @@
 # CS50's AP® Computer Science Principles from Harvard University 
 ![](http://upload-images.jianshu.io/upload_images/10219317-0a15dd3d7278b3a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://raw.githubusercontent.com/0xC000005/CS50s-AP/master/image/Elgin%20Logo.jpg)
 
 ___
 反正这个README，没有log，没有api，没有FAQ，也没有contribute。那就把重要的东西写两遍吧φ(゜▽゜*)♪
