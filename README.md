@@ -1,9 +1,9 @@
-# CS50s-AP
-CS50's AP® Computer Science Principles from Harvard University 
-
-反正这个README，没有log，没有api，没有FAQ，也没有contribute。那就把重要的东西写两边吧φ(゜▽゜*)♪
+# CS50's AP® Computer Science Principles from Harvard University 
+![](http://upload-images.jianshu.io/upload_images/10219317-0a15dd3d7278b3a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ___
+反正这个README，没有log，没有api，没有FAQ，也没有contribute。那就把重要的东西写两遍吧φ(゜▽゜*)♪
+
 到Github关注CS50最新进展：[https://github.com/0xC000005/CS50s-AP](https://github.com/0xC000005/CS50s-AP)
 
 Max小站同步更新中：[https://0xc000005.github.io/](https://0xc000005.github.io/)
