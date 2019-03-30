@@ -1,18 +1,29 @@
 # CS50's AP® Computer Science Principles from Harvard University 
 ![](http://upload-images.jianshu.io/upload_images/10219317-0a15dd3d7278b3a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+
+反正这个README，没有log，没有api，没有FAQ，也没有contribute。那就把重要的东西写两边吧φ(゜▽゜*)♪
 ___
-反正这个README，没有log，没有api，没有FAQ，也没有contribute。那就把重要的东西写两遍吧φ(゜▽゜*)♪
 
-到Github关注CS50最新进展：[https://github.com/0xC000005/CS50s-AP](https://github.com/0xC000005/CS50s-AP)
+**~~咸鱼的~~源码**
 
-Max小站同步更新中：[https://0xc000005.github.io/](https://0xc000005.github.io/)
+到Github关注CS50最新进展并获得拓展资源和源码：[https://github.com/0xC000005/CS50s-AP](https://github.com/0xC000005/CS50s-AP)
+
+**关注(能不能进哈佛就靠你们的阅读量了ˋ( ° ▽、° ) )**
+
+简书原生首发beta版本，关注我获得第一手~~语法错误的~~学习资料：[https://www.jianshu.com/u/c8137f32d573](https://www.jianshu.com/u/c8137f32d573)
+在Max小站查看Max酱之前写过的黑历史：[https://0xc000005.github.io/](https://0xc000005.github.io/)
+知乎完成度较高版本文章更新中，可能会延迟一两天~~(我懒)~~：[https://www.zhihu.com/people/wang-li-jun-76-22/activities](https://www.zhihu.com/people/wang-li-jun-76-22/activities)
+
+___
 
 本项目同步的 哈佛大学 CS50's AP® Computer Science Principles 在线学习：[https://www.edx.org/course/cs50s-apr-computer-science-principles-harvardx-cs50-ap](https://www.edx.org/course/cs50s-apr-computer-science-principles-harvardx-cs50-ap)
 
-本项目遵循GNU General Public License v2.0 协议，原始课程资料 Provided by Harvard University (HarvardX in edX)
-同时也感谢Elgin Park中学的亲们给予的资瓷，你们真是太太太棒了爱你们
+本项目遵循GNU General Public License v2.0 协议，原始课程资料 Provided by Harvard University (HarvardX in edX)，已获得edX学院CC协议许可，感谢哈佛大学和edX为免费教育做出的努力
+同时也感谢Elgin Park中学的亲们给予的资瓷，你们真是太太太棒了爱你们♪(´▽｀)
 
+**太平洋时间每周三准时更新，敬请期待(。・∀・)ノ**
+**太平洋时间每周三准时更新，敬请期待(。・∀・)ノ**
 **太平洋时间每周三准时更新，敬请期待(。・∀・)ノ**
 
 ## 前言
@@ -49,14 +60,28 @@ What You Will Learn:
 - How to engage with a vibrant community of like-minded learners from all levels of experience
 - How to develop and present a final programming project to your peers
 
+# 后记
 ___
-到Github关注CS50最新进展：[https://github.com/0xC000005/CS50s-AP](https://github.com/0xC000005/CS50s-AP)
+![](https://raw.githubusercontent.com/0xC000005/CS50s-AP/master/image/harvard_logo_200x101_0.png)
 
-Max小站同步更新中：[https://0xc000005.github.io/](https://0xc000005.github.io/)
+**~~咸鱼的~~源码**
+
+到Github关注CS50最新进展并获得拓展资源和源码：[https://github.com/0xC000005/CS50s-AP](https://github.com/0xC000005/CS50s-AP)
+
+**关注(能不能进哈佛就靠你们的阅读量了ˋ( ° ▽、° ) )**
+
+简书原生首发beta版本，关注我获得第一手~~语法错误的~~学习资料：[https://www.jianshu.com/u/c8137f32d573](https://www.jianshu.com/u/c8137f32d573)
+在Max小站查看Max酱之前写过的黑历史：[https://0xc000005.github.io/](https://0xc000005.github.io/)
+知乎完成度较高版本文章更新中，可能会延迟一两天~~(我懒)~~：[https://www.zhihu.com/people/wang-li-jun-76-22/activities](https://www.zhihu.com/people/wang-li-jun-76-22/activities)
+
+___
 
 本项目同步的 哈佛大学 CS50's AP® Computer Science Principles 在线学习：[https://www.edx.org/course/cs50s-apr-computer-science-principles-harvardx-cs50-ap](https://www.edx.org/course/cs50s-apr-computer-science-principles-harvardx-cs50-ap)
 
-本项目遵循GNU General Public License v2.0 协议，原始课程资料 Provided by Harvard University (HarvardX in edX)
-同时也感谢Elgin Park中学的亲们给予的资瓷，你们真是太太太棒了爱你们
+本项目遵循GNU General Public License v2.0 协议，原始课程资料 Provided by Harvard University (HarvardX in edX)，已获得edX学院CC协议许可，感谢哈佛大学和edX为免费教育做出的努力
+同时也感谢Elgin Park中学的亲们给予的资瓷，你们真是太太太棒了爱你们♪(´▽｀)
 
 **太平洋时间每周三准时更新，敬请期待(。・∀・)ノ**
+**太平洋时间每周三准时更新，敬请期待(。・∀・)ノ**
+**太平洋时间每周三准时更新，敬请期待(。・∀・)ノ**
+
