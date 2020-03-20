@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exploringThis",
+            "request": "launch",
+            "mainClass": "exploringThis",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Challenge1_6",
             "request": "launch",
             "mainClass": "Challenge1_6",
