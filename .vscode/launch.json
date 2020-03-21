@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - VirtualDemo",
+            "request": "launch",
+            "mainClass": "VirtualDemo",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestSuperSub",
+            "request": "launch",
+            "mainClass": "TestSuperSub",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GradStudent",
+            "request": "launch",
+            "mainClass": "GradStudent",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - swap",
             "request": "launch",
             "mainClass": "swap",
