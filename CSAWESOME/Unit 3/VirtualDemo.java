@@ -76,7 +76,7 @@ class RMB extends Salary
 /* 文件名 : VirtualDemo.java */
 public class VirtualDemo {
    public static void main(String [] args) {
-      RMB r = new RMB("员工 C", "湖南", 1, 1800.00);
+      Employee r = new RMB("员工 C", "湖南", 1, 1800.00);
       Salary s = new RMB("员工 A", "北京", 3, 3600.00);
       Employee e = new RMB("员工 B", "上海", 2, 2400.00);
       System.out.println("使用 RMB 的引用调用 mailCheck --");

@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "CS50s-AP_946de447"
+        },
+
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - VirtualDemo",
             "request": "launch",
             "mainClass": "VirtualDemo",
