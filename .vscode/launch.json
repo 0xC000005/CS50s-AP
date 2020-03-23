@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Sentence",
+            "request": "launch",
+            "mainClass": "Sentence",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tester",
+            "request": "launch",
+            "mainClass": "Tester",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Matrix",
+            "request": "launch",
+            "mainClass": "Matrix",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayUtil",
+            "request": "launch",
+            "mainClass": "ArrayUtil",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - insertionSort",
             "request": "launch",
             "mainClass": "insertionSort",

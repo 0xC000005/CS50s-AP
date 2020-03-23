@@ -12,11 +12,9 @@ public class insertionSort {
     }
 
     private static void insertNum(int[] list, int index) {
-        while (list[index - 1] > list[index]) {
+        while (index > 0 && list[index - 1] > list[index]) {
             swap(list, index, index - 1);
             index--;
-            if (index == 0)
-                break;
         }
     }
 
