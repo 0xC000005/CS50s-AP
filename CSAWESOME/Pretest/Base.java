@@ -1,4 +1,3 @@
-package CSAWESOME.Pretest;
 
 public class Base
 {
