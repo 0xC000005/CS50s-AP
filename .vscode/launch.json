@@ -6,12 +6,25 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - insertionSort",
+            "request": "launch",
+            "mainClass": "insertionSort",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Test",
             "request": "launch",
             "mainClass": "Test",
             "projectName": "CS50s-AP_946de447"
         },
-
         {
             "type": "java",
             "name": "CodeLens (Launch) - VirtualDemo",
