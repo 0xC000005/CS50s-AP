@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - exception_handling",
+            "request": "launch",
+            "mainClass": "exception_handling",
+            "projectName": "CS50s-AP_946de447"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Sentence",
             "request": "launch",
             "mainClass": "Sentence",
